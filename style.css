@@ -13,3 +13,39 @@
   body{    
     margin-top: 50px;
   }
+
+  hr{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+  }
+  .heading01{
+    margin-top: 2rem;
+    margin-bottom: 2rem
+  }
+
+  #try{
+    margin: auto;
+    width: 75%;
+    border: 3px solid black;
+    padding: 10px;
+    position: relative;
+    text-align: center;
+
+  }
+
+  .heading02 , .heading01{
+    font-family: 'Dancing Script', cursive;
+  }
+
+  .center-left{
+    position: absolute;
+    top: 160px;
+    left: 16px;
+    margin-left: 50px;
+    color: grey;
+    font-family: 'Pacifico', cursive;
+  }
+
+  
