@@ -22,7 +22,7 @@
   }
   .heading01{
     margin-top: 2rem;
-    margin-bottom: 2rem
+    margin-bottom: 2rem;
   }
 
   #try{
@@ -46,6 +46,18 @@
     margin-left: 50px;
     color: grey;
     font-family: 'Pacifico', cursive;
+  }
+
+  .touch1{
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
+  .touch2{    
+    margin-bottom: 2rem;
+  }
+
+  form{
+    font-family: 'Amatic SC', cursive;  
   }
 
   
